@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="NOVAKLASA.cpp" />
     <ClCompile Include="vj1 pis.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NOVAKLASA.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
